@@ -11,3 +11,7 @@ git status                                                    - mostra todos os 
 git add ("nome pasta ou arquivo" ou tudo (*))                 - adiciona no repositorio as modificações feita no computador
 git commit -m "escrever o comentario do que foi alterado"     - comentario 
 git push -u origin (nome da branch MAIN OU MASTER)            - atualiza o repositorio do github
+
+
+Comando para Apagar 
+git rm "nome do arquivo e o tipo"                             -exemplo nome do git status.txt
