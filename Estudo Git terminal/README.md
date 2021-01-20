@@ -3,7 +3,7 @@
 Comando para Clonar o repositorio  
                              
 * git clone (url do repositorio) 
-- serve para clonar a pasta do repositorio no seu computador
+serve para clonar a pasta do repositorio no seu computador
 
 Comando de git basico para adicionar coisa no repositorio 
 * git status  
