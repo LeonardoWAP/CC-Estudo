@@ -3,7 +3,12 @@ Destinado a aprendizagem de leonardo em CC
 https://repl.it/@Leonardowillers/Jogo-de-advinhacao-C-1#main.c
 
 
-// incluindo as bibliotecas
+
+
+
+
+******************************************************************************************************************************************************************
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
